@@ -1,0 +1,17 @@
+.add__services {
+  
+  display: flex;
+  
+  border: 1px solid teal;
+}
+.add__box {
+    border: 1px solid red;
+    width:20%;
+    height: 20%;
+    
+
+}
+.btn{
+    padding: 1rem;
+    border:1px solid black
+}
